@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1768"
+   height="897.33331"
+   viewBox="0 0 1768 897.33331"
+   sodipodi:docname="tmpvmlbw1.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.73472851"
+     inkscape:cx="884"
+     inkscape:cy="449.1455"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="2041"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="1768"
+       height="897.33331"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 342.125,40 h 642 v 22.5 h -642 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text1"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,775.66667,73.734375)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.5061326 14.254133 19.506374 24.000484 30.004351 42.00246 45.754459 55.500813 62.248814 68.996811 75.000679 81.004547 87.752548 94.500549 98.994659 104.99852 114.00041 120.74841 126.75228 132.75615 140.24828 144.75639 148.50604 155.25404"
+         y="0"
+         sodipodi:role="line"
+         id="tspan1">System.AggregateException</tspan></text>
+    <path
+       id="path2"
+       d="m 342.125,62.5 h 642 v 72 h -642 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text2"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,460.16667,105.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.7463512 16.494352 21.00246 27.006329 33.75433 39.744194 43.493843 49.497711 53.24971 59.253578"
+         y="0"
+         sodipodi:role="line"
+         id="tspan2">Agregate ex</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.253649 17.243515 22.495758 27.747999 33.751865 40.499866 46.503735 50.255733 54.749844 62.993603 69.7556 75.745468 81.749336 88.497337 92.246986 95.996635 102.74464 109.50663 113.24464"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan3">message (Exception 3</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.253649 17.243515 22.495758 27.747999 33.751865 40.499866 46.503735 50.997845 54.749844 59.243954 67.501709 74.24971 80.253578 86.243446 93.005447 96.755096 100.50475 107.25274 114.00074 117.75274 124.50074"
+         y="32.999989"
+         sodipodi:role="line"
+         id="tspan4">message) (Exception 33</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.253649 17.243515 22.495758 27.747999 33.751865 40.499866 46.503735"
+         y="49.499981"
+         sodipodi:role="line"
+         id="tspan5">message)</tspan></text>
+    <path
+       id="path5"
+       d="m 342.125,134.5 h 642 v 39 h -642 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,460.16667,201.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 158.99963 165.74763 170.25575 176.24562 182.99362 188.99748 192.74713 198.75101 205.49899 216.75266 222.75652 226.50616 233.25417 240.00217 246.75017 251.24428 255.75238 259.50439 263.25403 270.00204 273.75403 282.75592 286.50558 290.25522 301.49487 308.25687 312.00653 318.75452 322.50415 326.25381 330.74792 336.7518 343.49979 350.2478 355.50003 359.24966 368.25156 374.99957 381.74756 386.99982 393.7478 397.49747 403.50134 413.24768 419.99567 426.74368 433.50568 437.25534 445.49908 452.2471 458.25095 464.25482 471.00281 474.75247 478.50211 485.25012 491.99811 501.74448 507.74832 514.49634 520.50018 524.99432 530.99817 534.7478 541.49585 545.24792 548.99994 555.00378 560.25604 564.00568 567.75537 571.505 578.25299 584.25684 587.99487 594.75684 601.50488"
+         y="0"
+         sodipodi:role="line"
+         id="tspan6">at void ExceptionGenerator.agregate_method() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 128</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 12.749516 22.495867 29.243868 36.005867 40.499977 46.503845 53.251842 59.255711 63.00536 68.995224 77.252983 84.000984 90.004852 95.99472 102.75672 106.50637 110.25601 117.00401 123.75201 127.50401 135.74777 142.49577 148.49963 154.50351 161.25151 165.00116 168.75081 175.49881 182.24681 191.99315 197.99702 204.74503 210.74889 215.257 221.24687 224.99652 231.74452 235.49663 239.24863 248.99498 254.99884 261.74686 267.7507 272.24481 278.24869 281.99832 288.0022 292.49631 297.00443 300.75641 304.50607 311.25406 315.00607 323.99396 327.74362 331.49326 342.74692 349.4949 353.24457 360.00656 363.7562 367.50586 371.99997 378.00381 384.75183 391.49982 396.75208 400.50171 409.5036 416.25162 422.9996 428.25186 434.99985 438.74951 444.75336 454.49973 461.24771 467.99573 474.74371 478.49338 486.75113 493.49911 499.50299 505.50687 512.25488 516.00452 519.75415 526.50214 533.25018 542.99652 549.00037 555.74835 561.75226 566.24634 572.25024 575.99988 582.74786 586.5 590.25195 596.25586 601.49408 605.24371 608.99341 612.74304 619.505 625.49487 629.24689"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan7">at AggregateException ExceptionGenerator.Generate() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 8</tspan></text>
+    <path
+       id="path7"
+       d="M 40,209.5 H 654.25 V 232 H 40 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text7"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,303.33333,299.73437)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.5061326 14.254133 19.506374 24.000484 30.004351 42.00246 45.754459 55.500813 61.504681 68.252678 75.744812 87.75692 93.746788 101.25292 105.74703 117.00068 124.50681 129.00092 140.25458 144.74867 154.49503 161.24303 168.74916 175.49716 181.50104 190.50291 197.25092 203.25479 209.24466 216.75079 221.2449 224.99455 231.75655"
+         y="0"
+         sodipodi:role="line"
+         id="tspan8">System.ArgumentOutOfRangeException</tspan></text>
+    <path
+       id="path8"
+       d="m 40,232 h 614.25 v 39 H 40 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text8"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,57.333333,331.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.2437582 15.005758 20.995625 26.999493 33.747494 37.497139 41.246788 47.994789 54.75679 58.494789"
+         y="0"
+         sodipodi:role="line"
+         id="tspan9">Exception 3</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.253649 17.243515 22.495758 27.747999 33.751865 40.499866"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan10">message</tspan></text>
+    <path
+       id="path10"
+       d="m 40,271 h 614.25 v 55.5 H 40 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text10"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,57.333333,383.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 164.24942 170.2533 174.00294 180.75093 187.49893 194.24693 200.99493 205.50305 209.99716 213.74916 217.49881 224.24681 227.99881 237.0007 240.75035 244.49998 255.75365 262.50165 266.25128 272.9993 276.74893 280.4986 285.00668 290.99655 297.74457 304.50656 309.74481 313.49445 322.49634 329.24435 336.00635 341.2446 348.00659 351.75623 357.74609 367.50644 374.25446 381.00244 387.75046 391.50009 399.74387 406.50586 412.49573 418.4996 425.24759 428.99725 432.74689 439.4949 446.2569 456.00323 461.9931 468.7551 474.74496 479.25308 485.25696 489.00659 495.75461 499.50671 503.24472 509.24857 514.50079 518.25049 522.00012 525.74976 532.49774 538.50165 542.25366 549.00165"
+         y="0"
+         sodipodi:role="line"
+         id="tspan11">at void ExceptionGenerator.method5() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 52</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 164.24942 170.2533 174.00294 180.75093 187.49893 194.24693 200.99493 205.50305 209.99716 213.74916 217.49881 224.24681 227.99881 237.0007 240.75035 244.49998 255.75365 262.50165 266.25128 272.9993 276.74893 280.4986 285.00668 290.99655 297.74457 304.50656 309.74481 313.49445 322.49634 329.24435 336.00635 341.2446 348.00659 351.75623 357.74609 367.50644 374.25446 381.00244 387.75046 391.50009 399.74387 406.50586 412.49573 418.4996 425.24759 428.99725 432.74689 439.4949 446.2569 456.00323 461.9931 468.7551 474.74496 479.25308 485.25696 489.00659 495.75461 499.50671 503.24472 509.24857 514.50079 518.25049 522.00012 525.74976 532.49774 538.50165 542.25366 549.00165"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan12">at void ExceptionGenerator.method6() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 58</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 158.99963 165.74763 170.25575 176.24562 182.99362 188.99748 192.74713 198.75101 205.49899 216.75266 222.75652 226.50616 233.25417 240.00217 246.75017 251.24428 255.75238 259.50439 263.25403 270.00204 273.75403 282.75592 286.50558 290.25522 301.49487 308.25687 312.00653 318.75452 322.50415 326.25381 330.74792 336.7518 343.49979 350.2478 355.50003 359.24966 368.25156 374.99957 381.74756 386.99982 393.7478 397.49747 403.50134 413.24768 419.99567 426.74368 433.50568 437.25534 445.49908 452.2471 458.25095 464.25482 471.00281 474.75247 478.50211 485.25012 491.99811 501.74448 507.74832 514.49634 520.50018 524.99432 530.99817 534.7478 541.49585 545.24792 548.99994 555.00378 560.25604 564.00568 567.75537 571.505 578.25299 584.25684 587.99487 594.75684 601.50488"
+         y="32.999989"
+         sodipodi:role="line"
+         id="tspan13">at void ExceptionGenerator.agregate_method() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 112</tspan></text>
+    <path
+       id="path13"
+       d="m 532.77,173.441 c -20.36,10.262 -41.352,20.844 -61.571,31.032"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path14"
+       d="m 472.883,207.543 -10.504,1.375 7.355,-7.625 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path15"
+       d="m 672,209.5 h 614.25 V 232 H 672 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text15"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,1146,299.73437)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.5061326 14.254133 19.506374 24.000484 30.004351 42.00246 45.754459 55.500813 61.504681 68.252678 75.744812 87.75692 93.746788 101.25292 105.74703 117.00068 124.50681 129.00092 140.25458 144.74867 154.49503 161.24303 168.74916 175.49716 181.50104 190.50291 197.25092 203.25479 209.24466 216.75079 221.2449 224.99455 231.75655"
+         y="0"
+         sodipodi:role="line"
+         id="tspan15">System.ArgumentOutOfRangeException</tspan></text>
+    <path
+       id="path16"
+       d="m 672,232 h 614.25 v 39 H 672 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text16"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,900,331.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.2437582 15.005758 20.995625 26.999493 33.747494 37.497139 41.246788 47.994789 54.75679 58.494789 65.25679"
+         y="0"
+         sodipodi:role="line"
+         id="tspan16">Exception 33</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.253649 17.243515 22.495758 27.747999 33.751865 40.499866"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan17">message</tspan></text>
+    <path
+       id="path17"
+       d="m 672,271 h 614.25 v 55.5 H 672 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text17"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,900,383.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 159.74377 163.49342 170.25542 176.24529 180.7534 187.5014 198.75505 204.74492 208.49457 215.25656 222.00456 228.75256 235.50056 239.99467 244.50278 248.25478 252.00443 258.75244 262.50443 271.50632 275.25598 279.00562 290.24527 296.99326 300.75693 307.50491 311.25458 315.00421 319.49832 325.5022 332.25018 338.9982 344.25043 348.00009 357.00198 363.74997 370.49796 375.75021 382.4982 386.24786 392.25174 401.99808 408.74606 415.49408 422.25607 426.00574 434.24948 440.9975 447.00134 453.00522 459.7532 463.50287 467.2525 474.00052 480.7485 490.49487 496.49875 503.24673 509.25061 513.74469 519.7486 523.49823 530.24622 533.99835 537.75037 543.75421 549.00647 552.7561 556.50574 560.25537 567.00342 572.99329 576.74524 583.49329"
+         y="0"
+         sodipodi:role="line"
+         id="tspan18">at void ExceptionGenerator.other_method5() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 96</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 159.74377 163.49342 170.25542 176.24529 180.7534 187.5014 198.75505 204.74492 208.49457 215.25656 222.00456 228.75256 235.50056 239.99467 244.50278 248.25478 252.00443 258.75244 262.50443 271.50632 275.25598 279.00562 290.24527 296.99326 300.75693 307.50491 311.25458 315.00421 319.49832 325.5022 332.25018 338.9982 344.25043 348.00009 357.00198 363.74997 370.49796 375.75021 382.4982 386.24786 392.25174 401.99808 408.74606 415.49408 422.25607 426.00574 434.24948 440.9975 447.00134 453.00522 459.7532 463.50287 467.2525 474.00052 480.7485 490.49487 496.49875 503.24673 509.25061 513.74469 519.7486 523.49823 530.24622 533.99835 537.75037 543.75421 549.00647 552.7561 556.50574 560.25537 567.00342 572.99329 576.74524 583.49329 590.25525"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan19">at void ExceptionGenerator.other_method6() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 103</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 158.99963 165.74763 170.25575 176.24562 182.99362 188.99748 192.74713 198.75101 205.49899 216.75266 222.75652 226.50616 233.25417 240.00217 246.75017 251.24428 255.75238 259.50439 263.25403 270.00204 273.75403 282.75592 286.50558 290.25522 301.49487 308.25687 312.00653 318.75452 322.50415 326.25381 330.74792 336.7518 343.49979 350.2478 355.50003 359.24966 368.25156 374.99957 381.74756 386.99982 393.7478 397.49747 403.50134 413.24768 419.99567 426.74368 433.50568 437.25534 445.49908 452.2471 458.25095 464.25482 471.00281 474.75247 478.50211 485.25012 491.99811 501.74448 507.74832 514.49634 520.50018 524.99432 530.99817 534.7478 541.49585 545.24792 548.99994 555.00378 560.25604 564.00568 567.75537 571.505 578.25299 584.25684 587.99487 594.75684 601.50488"
+         y="32.999989"
+         sodipodi:role="line"
+         id="tspan20">at void ExceptionGenerator.agregate_method() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 121</tspan></text>
+    <path
+       id="path20"
+       d="m 793.48,173.441 c 20.36,10.262 41.352,20.844 61.571,31.032"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path21"
+       d="m 856.516,201.293 7.355,7.625 -10.504,-1.375 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path22"
+       d="M 66.25,362.5 H 628 V 385 H 66.25 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text22"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,348.83333,503.73437)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.5061326 14.254133 19.506374 24.000484 30.004351 42.00246 45.754459 55.500813 63.006947 70.499077 74.248726 77.998375 84.002243 90.750244 95.244354 98.994003 105.756 113.24813 122.25002 128.99802 135.00189 141.00575 148.49789 153.006 156.75565 163.50365"
+         y="0"
+         sodipodi:role="line"
+         id="tspan22">System.ApplicationException</tspan></text>
+    <path
+       id="path23"
+       d="M 66.25,385 H 628 v 39 H 66.25 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text23"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,92.333333,535.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.2437582 15.005758 20.995625 26.999493 33.747494 37.497139 41.246788 47.994789 54.75679 58.494789"
+         y="0"
+         sodipodi:role="line"
+         id="tspan23">Exception 2</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.253649 17.243515 22.495758 27.747999 33.751865 40.499866"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan24">message</tspan></text>
+    <path
+       id="path24"
+       d="M 66.25,424 H 628 v 55.5 H 66.25 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text24"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,92.333333,587.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 164.24942 170.2533 174.00294 180.75093 187.49893 194.24693 200.99493 205.50305 209.99716 213.74916 217.49881 224.24681 227.99881 237.0007 240.75035 244.49998 255.75365 262.50165 266.25128 272.9993 276.74893 280.4986 285.00668 290.99655 297.74457 304.50656 309.74481 313.49445 322.49634 329.24435 336.00635 341.2446 348.00659 351.75623 357.74609 367.50644 374.25446 381.00244 387.75046 391.50009 399.74387 406.50586 412.49573 418.4996 425.24759 428.99725 432.74689 439.4949 446.2569 456.00323 461.9931 468.7551 474.74496 479.25308 485.25696 489.00659 495.75461 499.50671 503.24472 509.24857 514.50079 518.25049 522.00012 525.74976 532.49774 538.50165 542.25366 549.00165"
+         y="0"
+         sodipodi:role="line"
+         id="tspan25">at void ExceptionGenerator.method3() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 35</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 164.24942 170.2533 174.00294 180.75093 187.49893 194.24693 200.99493 205.50305 209.99716 213.74916 217.49881 224.24681 227.99881 237.0007 240.75035 244.49998 255.75365 262.50165 266.25128 272.9993 276.74893 280.4986 285.00668 290.99655 297.74457 304.50656 309.74481 313.49445 322.49634 329.24435 336.00635 341.2446 348.00659 351.75623 357.74609 367.50644 374.25446 381.00244 387.75046 391.50009 399.74387 406.50586 412.49573 418.4996 425.24759 428.99725 432.74689 439.4949 446.2569 456.00323 461.9931 468.7551 474.74496 479.25308 485.25696 489.00659 495.75461 499.50671 503.24472 509.24857 514.50079 518.25049 522.00012 525.74976 532.49774 538.50165 542.25366 549.00165"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan26">at void ExceptionGenerator.method4() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 41</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 164.24942 170.2533 174.00294 180.75093 187.49893 194.24693 200.99493 205.50305 209.99716 213.74916 217.49881 224.24681 227.99881 237.0007 240.75035 244.49998 255.75365 262.50165 266.25128 272.9993 276.74893 280.4986 285.00668 290.99655 297.74457 304.50656 309.74481 313.49445 322.49634 329.24435 336.00635 341.2446 348.00659 351.75623 357.74609 367.50644 374.25446 381.00244 387.75046 391.50009 399.74387 406.50586 412.49573 418.4996 425.24759 428.99725 432.74689 439.4949 446.2569 456.00323 461.9931 468.7551 474.74496 479.25308 485.25696 489.00659 495.75461 499.50671 503.24472 509.24857 514.50079 518.25049 522.00012 525.74976 532.49774 538.50165 542.25366 549.00165"
+         y="32.999989"
+         sodipodi:role="line"
+         id="tspan27">at void ExceptionGenerator.method5() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 48</tspan></text>
+    <path
+       id="path27"
+       d="m 347.125,326.086 c 0,8.211 0,16.73 0,25.141"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path28"
+       d="m 350.625,351.07 -3.5,10 -3.5,-10 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path29"
+       d="M 66.25,515.5 H 628 V 538 H 66.25 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text29"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,353.83333,707.73437)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.5061326 14.254133 19.506374 24.000484 30.004351 42.00246 45.754459 55.500813 61.504681 68.252678 75.744812 87.75692 93.746788 101.25292 105.74703 114.74892 121.49693 127.50079 133.50465 140.9968 145.5049 149.25455 156.00255"
+         y="0"
+         sodipodi:role="line"
+         id="tspan29">System.ArgumentException</tspan></text>
+    <path
+       id="path30"
+       d="M 66.25,538 H 628 v 39 H 66.25 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text30"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,92.333333,739.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.2437582 15.005758 20.995625 26.999493 33.747494 37.497139 41.246788 47.994789 54.75679 58.494789"
+         y="0"
+         sodipodi:role="line"
+         id="tspan30">Exception 1</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.253649 17.243515 22.495758 27.747999 33.751865 40.499866 46.503735"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan31">message </tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="50.255733 56.247898 62.993767 68.997635"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan32">тест</tspan></text>
+    <path
+       id="path32"
+       d="M 66.25,577 H 628 v 55.5 H 66.25 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text32"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,92.333333,791.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 164.24942 170.2533 174.00294 180.75093 187.49893 194.24693 200.99493 205.50305 209.99716 213.74916 217.49881 224.24681 227.99881 237.0007 240.75035 244.49998 255.75365 262.50165 266.25128 272.9993 276.74893 280.4986 285.00668 290.99655 297.74457 304.50656 309.74481 313.49445 322.49634 329.24435 336.00635 341.2446 348.00659 351.75623 357.74609 367.50644 374.25446 381.00244 387.75046 391.50009 399.74387 406.50586 412.49573 418.4996 425.24759 428.99725 432.74689 439.4949 446.2569 456.00323 461.9931 468.7551 474.74496 479.25308 485.25696 489.00659 495.75461 499.50671 503.24472 509.24857 514.50079 518.25049 522.00012 525.74976 532.49774 538.50165 542.25366 549.00165"
+         y="0"
+         sodipodi:role="line"
+         id="tspan33">at void ExceptionGenerator.method1() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 19</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 164.24942 170.2533 174.00294 180.75093 187.49893 194.24693 200.99493 205.50305 209.99716 213.74916 217.49881 224.24681 227.99881 237.0007 240.75035 244.49998 255.75365 262.50165 266.25128 272.9993 276.74893 280.4986 285.00668 290.99655 297.74457 304.50656 309.74481 313.49445 322.49634 329.24435 336.00635 341.2446 348.00659 351.75623 357.74609 367.50644 374.25446 381.00244 387.75046 391.50009 399.74387 406.50586 412.49573 418.4996 425.24759 428.99725 432.74689 439.4949 446.2569 456.00323 461.9931 468.7551 474.74496 479.25308 485.25696 489.00659 495.75461 499.50671 503.24472 509.24857 514.50079 518.25049 522.00012 525.74976 532.49774 538.50165 542.25366 549.00165"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan34">at void ExceptionGenerator.method2() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 24</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 164.24942 170.2533 174.00294 180.75093 187.49893 194.24693 200.99493 205.50305 209.99716 213.74916 217.49881 224.24681 227.99881 237.0007 240.75035 244.49998 255.75365 262.50165 266.25128 272.9993 276.74893 280.4986 285.00668 290.99655 297.74457 304.50656 309.74481 313.49445 322.49634 329.24435 336.00635 341.2446 348.00659 351.75623 357.74609 367.50644 374.25446 381.00244 387.75046 391.50009 399.74387 406.50586 412.49573 418.4996 425.24759 428.99725 432.74689 439.4949 446.2569 456.00323 461.9931 468.7551 474.74496 479.25308 485.25696 489.00659 495.75461 499.50671 503.24472 509.24857 514.50079 518.25049 522.00012 525.74976 532.49774 538.50165 542.25366 549.00165"
+         y="32.999989"
+         sodipodi:role="line"
+         id="tspan35">at void ExceptionGenerator.method3() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 31</tspan></text>
+    <path
+       id="path35"
+       d="m 347.125,479.086 c 0,8.211 0,16.73 0,25.141"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path36"
+       d="m 350.625,504.07 -3.5,10 -3.5,-10 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path37"
+       d="m 681,362.5 h 596.25 V 385 H 681 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text37"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,1191.5,503.73437)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.5061326 14.254133 19.506374 24.000484 30.004351 42.00246 45.754459 55.500813 63.006947 70.499077 74.248726 77.998375 84.002243 90.750244 95.244354 98.994003 105.756 113.24813 122.25002 128.99802 135.00189 141.00575 148.49789 153.006 156.75565 163.50365"
+         y="0"
+         sodipodi:role="line"
+         id="tspan37">System.ApplicationException</tspan></text>
+    <path
+       id="path38"
+       d="m 681,385 h 596.25 v 39 H 681 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text38"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,912,535.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.2437582 15.005758 20.995625 26.999493 33.747494 37.497139 41.246788 47.994789 54.75679 58.494789 65.25679"
+         y="0"
+         sodipodi:role="line"
+         id="tspan38">Exception 22</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.253649 17.243515 22.495758 27.747999 33.751865 40.499866"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan39">message</tspan></text>
+    <path
+       id="path39"
+       d="m 681,424 h 596.25 v 55.5 H 681 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text39"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,912,587.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 159.74377 163.49342 170.25542 176.24529 180.7534 187.5014 198.75505 204.74492 208.49457 215.25656 222.00456 228.75256 235.50056 239.99467 244.50278 248.25478 252.00443 258.75244 262.50443 271.50632 275.25598 279.00562 290.24527 296.99326 300.75693 307.50491 311.25458 315.00421 319.49832 325.5022 332.25018 338.9982 344.25043 348.00009 357.00198 363.74997 370.49796 375.75021 382.4982 386.24786 392.25174 401.99808 408.74606 415.49408 422.25607 426.00574 434.24948 440.9975 447.00134 453.00522 459.7532 463.50287 467.2525 474.00052 480.7485 490.49487 496.49875 503.24673 509.25061 513.74469 519.7486 523.49823 530.24622 533.99835 537.75037 543.75421 549.00647 552.7561 556.50574 560.25537 567.00342 572.99329 576.74524 583.49329"
+         y="0"
+         sodipodi:role="line"
+         id="tspan40">at void ExceptionGenerator.other_method3() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 79</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 159.74377 163.49342 170.25542 176.24529 180.7534 187.5014 198.75505 204.74492 208.49457 215.25656 222.00456 228.75256 235.50056 239.99467 244.50278 248.25478 252.00443 258.75244 262.50443 271.50632 275.25598 279.00562 290.24527 296.99326 300.75693 307.50491 311.25458 315.00421 319.49832 325.5022 332.25018 338.9982 344.25043 348.00009 357.00198 363.74997 370.49796 375.75021 382.4982 386.24786 392.25174 401.99808 408.74606 415.49408 422.25607 426.00574 434.24948 440.9975 447.00134 453.00522 459.7532 463.50287 467.2525 474.00052 480.7485 490.49487 496.49875 503.24673 509.25061 513.74469 519.7486 523.49823 530.24622 533.99835 537.75037 543.75421 549.00647 552.7561 556.50574 560.25537 567.00342 572.99329 576.74524 583.49329"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan41">at void ExceptionGenerator.other_method4() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 85</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 159.74377 163.49342 170.25542 176.24529 180.7534 187.5014 198.75505 204.74492 208.49457 215.25656 222.00456 228.75256 235.50056 239.99467 244.50278 248.25478 252.00443 258.75244 262.50443 271.50632 275.25598 279.00562 290.24527 296.99326 300.75693 307.50491 311.25458 315.00421 319.49832 325.5022 332.25018 338.9982 344.25043 348.00009 357.00198 363.74997 370.49796 375.75021 382.4982 386.24786 392.25174 401.99808 408.74606 415.49408 422.25607 426.00574 434.24948 440.9975 447.00134 453.00522 459.7532 463.50287 467.2525 474.00052 480.7485 490.49487 496.49875 503.24673 509.25061 513.74469 519.7486 523.49823 530.24622 533.99835 537.75037 543.75421 549.00647 552.7561 556.50574 560.25537 567.00342 572.99329 576.74524 583.49329"
+         y="32.999989"
+         sodipodi:role="line"
+         id="tspan42">at void ExceptionGenerator.other_method5() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 92</tspan></text>
+    <path
+       id="path42"
+       d="m 979.125,326.086 c 0,8.211 0,16.73 0,25.141"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path43"
+       d="m 982.625,351.07 -3.5,10 -3.5,-10 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path44"
+       d="m 681,515.5 h 596.25 V 538 H 681 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text44"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,1196.5,707.73437)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 7.5061326 14.254133 19.506374 24.000484 30.004351 42.00246 45.754459 55.500813 61.504681 68.252678 75.744812 87.75692 93.746788 101.25292 105.74703 114.74892 121.49693 127.50079 133.50465 140.9968 145.5049 149.25455 156.00255"
+         y="0"
+         sodipodi:role="line"
+         id="tspan44">System.ArgumentException</tspan></text>
+    <path
+       id="path45"
+       d="m 681,538 h 596.25 v 39 H 681 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text45"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,912,739.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.2437582 15.005758 20.995625 26.999493 33.747494 37.497139 41.246788 47.994789 54.75679 58.494789 65.25679"
+         y="0"
+         sodipodi:role="line"
+         id="tspan45">Exception 11</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 11.253649 17.243515 22.495758 27.747999 33.751865 40.499866"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan46">message</tspan></text>
+    <path
+       id="path46"
+       d="m 681,577 h 596.25 v 55.5 H 681 Z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <text
+       id="text46"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,912,791.06771)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 159.74377 163.49342 170.25542 176.24529 180.7534 187.5014 198.75505 204.74492 208.49457 215.25656 222.00456 228.75256 235.50056 239.99467 244.50278 248.25478 252.00443 258.75244 262.50443 271.50632 275.25598 279.00562 290.24527 296.99326 300.75693 307.50491 311.25458 315.00421 319.49832 325.5022 332.25018 338.9982 344.25043 348.00009 357.00198 363.74997 370.49796 375.75021 382.4982 386.24786 392.25174 401.99808 408.74606 415.49408 422.25607 426.00574 434.24948 440.9975 447.00134 453.00522 459.7532 463.50287 467.2525 474.00052 480.7485 490.49487 496.49875 503.24673 509.25061 513.74469 519.7486 523.49823 530.24622 533.99835 537.75037 543.75421 549.00647 552.7561 556.50574 560.25537 567.00342 572.99329 576.74524 583.49329"
+         y="0"
+         sodipodi:role="line"
+         id="tspan47">at void ExceptionGenerator.other_method1() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 63</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 159.74377 163.49342 170.25542 176.24529 180.7534 187.5014 198.75505 204.74492 208.49457 215.25656 222.00456 228.75256 235.50056 239.99467 244.50278 248.25478 252.00443 258.75244 262.50443 271.50632 275.25598 279.00562 290.24527 296.99326 300.75693 307.50491 311.25458 315.00421 319.49832 325.5022 332.25018 338.9982 344.25043 348.00009 357.00198 363.74997 370.49796 375.75021 382.4982 386.24786 392.25174 401.99808 408.74606 415.49408 422.25607 426.00574 434.24948 440.9975 447.00134 453.00522 459.7532 463.50287 467.2525 474.00052 480.7485 490.49487 496.49875 503.24673 509.25061 513.74469 519.7486 523.49823 530.24622 533.99835 537.75037 543.75421 549.00647 552.7561 556.50574 560.25537 567.00342 572.99329 576.74524 583.49329"
+         y="16.499994"
+         sodipodi:role="line"
+         id="tspan48">at void ExceptionGenerator.other_method2() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 68</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:'Times New Roman';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.0038671 9.7535152 13.505516 20.253515 27.001516 30.751163 37.499165 41.251163 49.494923 56.256924 62.246788 68.250656 74.998657 78.748306 82.497955 89.245956 95.99395 105.7543 111.74417 118.50617 124.49604 129.00415 134.99402 138.74367 145.50566 149.24377 152.99577 159.74377 163.49342 170.25542 176.24529 180.7534 187.5014 198.75505 204.74492 208.49457 215.25656 222.00456 228.75256 235.50056 239.99467 244.50278 248.25478 252.00443 258.75244 262.50443 271.50632 275.25598 279.00562 290.24527 296.99326 300.75693 307.50491 311.25458 315.00421 319.49832 325.5022 332.25018 338.9982 344.25043 348.00009 357.00198 363.74997 370.49796 375.75021 382.4982 386.24786 392.25174 401.99808 408.74606 415.49408 422.25607 426.00574 434.24948 440.9975 447.00134 453.00522 459.7532 463.50287 467.2525 474.00052 480.7485 490.49487 496.49875 503.24673 509.25061 513.74469 519.7486 523.49823 530.24622 533.99835 537.75037 543.75421 549.00647 552.7561 556.50574 560.25537 567.00342 572.99329 576.74524 583.49329"
+         y="32.999989"
+         sodipodi:role="line"
+         id="tspan49">at void ExceptionGenerator.other_method3() in C:/my/gitrepos/ConsoleApp1/ExceptionGenerator.cs:line 75</tspan></text>
+    <path
+       id="path49"
+       d="m 979.125,479.086 c 0,8.211 0,16.73 0,25.141"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+    <path
+       id="path50"
+       d="m 982.625,504.07 -3.5,10 -3.5,-10 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(1.3333333)" />
+  </g>
+</svg>
