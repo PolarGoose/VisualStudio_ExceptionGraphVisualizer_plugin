@@ -11,8 +11,7 @@ internal class ExtensionEntrypoint : Extension
                        version: ExtensionAssemblyVersion,
                        publisherName: "PolarGoose",
                        displayName: "Exception Graph Visualizer",
-                       description: @"Shows exceptions as a graph with its inner exceptions and stack traces.<br>
-More details: <a href=""https://github.com/PolarGoose/VisualStudio_ExceptionGraphVisualizer_plugin"">https://github.com/PolarGoose/VisualStudio_ExceptionGraphVisualizer_plugin</a>")
+                       description: @"Shows exceptions as a graph with its inner exceptions and stack traces.")
         {
             Tags = ["visualizer", "exception", "debug", "debugging"],
             InstallationTargetArchitecture = VisualStudioArchitecture.Amd64,
