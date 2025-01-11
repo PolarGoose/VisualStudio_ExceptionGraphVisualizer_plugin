@@ -9,12 +9,10 @@
     <EmbeddedResource Include="MessageControl.xaml" />
   </ItemGroup>
 
-  <Target Name="AddExceptionGraphVisualizerSourceDllsToContent" BeforeTargets="BeforeBuild">
+  <Target Name="AddExceptionGraphVisualizerSourceDllsToContent" AfterTargets="CopyFilesToOutputDirectory" BeforeTargets="GetVsixSourceItems">
     <ItemGroup>
       <VisualizerSourceDlls Include="$(OutputPath)\..\..\ExceptionGraphVisualizerSource\netstandard2.0\*.dll" />
-      <Content Include="@(VisualizerSourceDlls)">
-        <Link>netstandard2.0\%(Filename)%(Extension)</Link>
-      </Content>
+      <Content Include="@(VisualizerSourceDlls)" Link="netstandard2.0\%(Filename)%(Extension)" />
     </ItemGroup>
   </Target>
   
@@ -25,9 +23,7 @@
   <Target Name="AddGraphVizBinariesToContent" AfterTargets="DownloadGraphviz" BeforeTargets="BeforeBuild">
     <ItemGroup>
       <GraphVizBinaries Include="$(BuildFolder)/Graphviz-*/bin/*.dll;$(BuildFolder)/Graphviz-*/bin/config6" />
-      <Content Include="@(GraphVizBinaries)">
-        <Link>%(Filename)%(Extension)</Link>
-      </Content>
+      <Content Include="@(GraphVizBinaries)" Link="%(Filename)%(Extension)" />
     </ItemGroup>
   </Target>
 </Project>
